@@ -6,6 +6,6 @@ print("="*10)
 
 1.) Install Python (3) <br/>
 2.) Open Terminal <br/>
-3.) Type "cd" and drag the folder containing this file into the terminal <br/>
+3.) Type "cd" and drag the folder ("python-game-master") containing this file into the terminal <br/>
 4.) Type 'python snake.py' <br/>
 
