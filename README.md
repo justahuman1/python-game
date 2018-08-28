@@ -1,11 +1,11 @@
 # python-game 
-Lightweight snake game for your terminal. Collect the Pi's! 
+Lightweight snake game for your terminal. Collect the Pi's! <br/>
 
-HOW TO RUN 
+HOW TO RUN <br/>
 print("="*10)
 
-1.) Install Python (3) 
-2.) Open Terminal 
-3.) Type "cd" and drag the folder containing this file into the terminal 
-4.) Type 'python snake.py' 
+1.) Install Python (3) <br/>
+2.) Open Terminal <br/>
+3.) Type "cd" and drag the folder containing this file into the terminal <br/>
+4.) Type 'python snake.py' <br/>
 
