@@ -1,4 +1,4 @@
-# python-game 
+# Python Game 
 Lightweight snake game for your terminal. Collect the Pi's! <br/>
 
 HOW TO RUN <br/>
