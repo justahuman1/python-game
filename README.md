@@ -1,7 +1,7 @@
 # Python Game 
 Lightweight snake game for your terminal. Collect the Pi's! <br/>
 
-HOW TO RUN <br/>
+How To Run <br/>
 ==================
 
 1.) Install Python (3) <br/>
