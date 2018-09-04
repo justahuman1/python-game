@@ -9,3 +9,4 @@ How to Run <br/>
 3.) Type "cd" and drag the folder ("python-game-master") containing this file into the terminal <br/>
 4.) Type 'python snake.py' <br/>
 
+<img src='https://i.imgur.com/2BEiPIA.png'>
